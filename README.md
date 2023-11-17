@@ -3,7 +3,7 @@
 # noneeg-stress-convneuralnetwork-keras
 
 <div align="justify">
-Project developed for the study presented in the article "A Convolutional Neural Network model for stress classification based on electrocardiogram data".
+Project developed for the study presented in the article "A Convolutional Neural Network model for stress classification based on electrocardiogram data" published by International Journal of Scientific Research in Engineering and Management (Volume 07, Issue 11, Nov. 2023).
 <br><br>
 This study proposes a Convolutional Neural Network (CNN) model for classifying levels and types of stress using electrocardiogram data. The model was trained on data from the Non-EEG dataset. This dataset has records of heart rate measurements of 20 individuals who were monitored while performing certain stress-inducing activities. The individuals performed activities that induce physical, cognitive and emotional stress. The CNN model achieved an accuracy rate of 97.5% in predicting types of stress.
 <br><br>
