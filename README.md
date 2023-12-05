@@ -9,4 +9,4 @@ This study proposes a Convolutional Neural Network (CNN) model for classifying l
 <br><br>
 Additionally, other Machine Learning models were trained with the Non-EEG dataset to verify the hypothesis that the performance of the CNN model could outperform such models. The other models trained were: K-Nearest Neighbors, Random Forest and Multilayer Perceptron.
 <br><br>
-The libraries used in the project were: Tensorflow, Keras, scikit-learn, Pandas, Imbalanced-learn, Matplotlib and Python waveform-database (WFDB).
+The libraries used in the project were: Tensorflow, Keras, scikit-learn, Pandas, Imbalanced-learn, Matplotlib, and Python waveform-database (WFDB).
