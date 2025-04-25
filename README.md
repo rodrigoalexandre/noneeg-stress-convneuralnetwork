@@ -6,7 +6,7 @@
 
 Project developed for the study presented in the article *"A Convolutional Neural Network model for stress classification based on electrocardiogram data"* published by *International Journal of Scientific Research in Engineering and Management* (Volume 07, Issue 11, Nov. 2023). 
 
-**Stress disorders** have aroused great interest among researchers and have been widely addressed in several studies due to the negative impacts they can cause to people's quality of life and the possibility of triggering serious illnesses that can seriously compromise physical health. Stress can be classified into three categories: cognitive stress (also called mental stress), emotional stress (also called affective stress), and physical stress. The **Electrocardiogram (ECG)** makes it possible to detect stress disorders by analyzing the electrical activity of the heart.
+**Stress disorders** have aroused great interest among researchers and have been widely addressed in several studies due to the negative impacts they can cause to people's quality of life and the possibility of triggering serious illnesses that can seriously compromise physical health. Stress can be classified into three categories: cognitive stress (also called mental stress), emotional stress (also called affective stress), and physical stress. The **Electrocardiogram (ECG)** makes it possible to detect and classify stress disorders by analyzing the electrical activity of the heart.
 
 This study proposes a **Convolutional Neural Network (CNN)** model for classification of stress through the analysis of ECG data. The model achieved a high accuracy in its predictions and presented an adequate balance between performance and computational costs.
 <br><br>
