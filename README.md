@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+![GitHub language count](https://img.shields.io/github/languages/count/rodrigoalexandre/noneeg-stress-convneuralnetwork)
+![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/noneeg-stress-convneuralnetwork)
 ## **DESCRIPTION**
 
 Project developed for the study presented in the article *"A Convolutional Neural Network model for stress classification based on electrocardiogram data"* published by *International Journal of Scientific Research in Engineering and Management* (Volume 07, Issue 11, Nov. 2023). 
@@ -26,5 +29,5 @@ https://doi.org/10.55041/IJSREM26771
 The dataset used in this study is publicly available at: https://physionet.org/content/noneeg/1.0.0/
 <br><br>
 ## **LICENSE**
-This project is open-source.
+This project is available under the **MIT license**. See the LICENSE file for more details.
 <br><br>
