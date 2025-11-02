@@ -2,7 +2,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/rodrigoalexandre/noneeg-stress-convneuralnetwork)
 ![GitHub top language](https://img.shields.io/github/languages/top/rodrigoalexandre/noneeg-stress-convneuralnetwork)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rodrigoalexandre/noneeg-stress-convneuralnetwork)
-## **DESCRIPTION**
+## 📝 **DESCRIPTION**
 
 Project developed for the study presented in the article *"A Convolutional Neural Network model for stress classification based on electrocardiogram data"* published by *International Journal of Scientific Research in Engineering and Management* (Volume 07, Issue 11, Nov. 2023). 
 
@@ -10,7 +10,7 @@ Project developed for the study presented in the article *"A Convolutional Neura
 
 This study proposes a **Convolutional Neural Network (CNN)** model for classification of stress through the analysis of ECG data. The model achieved a high accuracy in its predictions and presented an adequate balance between performance and computational costs.
 <br><br>
-## **PROJECT STRUCTURE**
+## 📂 **PROJECT STRUCTURE**
 
 |--- source<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- prepare-noneeg-dataset.ipynb (Python code to convert dataset original files to CSV)<br>
@@ -22,13 +22,13 @@ This study proposes a **Convolutional Neural Network (CNN)** model for classific
 |--- dataset<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--- The dataset location
 <br><br>
-## **ARTICLE LINK**
+## 🔗 **ARTICLE LINK**
 
 https://doi.org/10.55041/IJSREM26771
 <br><br>
-## **RESOURCES**
+## ⚙️ **RESOURCES**
 The dataset used in this study is publicly available at: https://physionet.org/content/noneeg/1.0.0/
 <br><br>
-## **LICENSE**
+## 🛡 **LICENSE**
 This project is available under the **MIT license**. See the LICENSE file for more details.
 <br><br>
